@@ -37,13 +37,6 @@ Hi!
 
 ---
 
-#### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
----
-
 #### 📫 How to reach me
 
 - Email: [khaledalam.net@gmail.com](mailto:khaledalam.net@gmail.com)
