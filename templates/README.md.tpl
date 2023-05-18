@@ -1,4 +1,4 @@
-Hi!
+### Hi there 👋
 
 ---
 
@@ -30,10 +30,11 @@ Hi!
 
 ---
 
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+<p align="center">
+    <a href="https://github.com/khaledalam">
+        <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
+    </a>
+</p>
 
 ---
 
