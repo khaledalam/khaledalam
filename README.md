@@ -1,4 +1,4 @@
-Hi!
+### Hi there 👋
 
 ---
 
@@ -34,8 +34,11 @@ Hi!
 
 ---
 
-#### ⭐ Recent Stars
-
+<p align="center">
+    <a href="https://github.com/khaledalam">
+        <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
+    </a>
+</p>
 
 ---
 
