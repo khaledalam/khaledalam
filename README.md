@@ -4,6 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) - PHP SDK/API for Google Bard (experiment version) (unofficial) (today)
 - [khaledalam/ml-image-searcher](https://github.com/khaledalam/ml-image-searcher) - NodeJS module NPM package that helps to search for images using instagram hashtags and machine learning object recognition technology. (3 days ago)
 - [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) - NodeJS module NPM package that helps to scrap instagram profile media, post comments and more useful information. (3 days ago)
 - [khaledalam/docker_smiley](https://github.com/khaledalam/docker_smiley) - Docker_Smiley is a small application with a web based interface to reverse engineering Docker containers&#39; environment variables precedence and monitor Docker containers&#39; processes and logs in real time. (6 days ago)
