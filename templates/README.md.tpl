@@ -12,23 +12,29 @@
 - <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>
     
 
-<center>
+<div align="center">
+
 | 👷 What I'm currently working on        |
 | ------------- |
 | {{range recentContributions 5}} - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})<br />{{- end}}      |
-</center>
 
-<center>
+</div>
+
+<div align="center">
+
 | 🔨My recent pull requests           |
 | ------------- |
 | {{range recentPullRequests 5}}- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})<br />{{- end}}      |
-</center>
 
-<center>
+</div>
+
+<div align="center">
+
 | 🔭Latest releases I've contributed to           |
 | ------------- |
 | {{range recentReleases 5}}- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}<br />{{- end}}      |
-</center>
+
+</div>
 
 #### 📫 How to reach me
 
