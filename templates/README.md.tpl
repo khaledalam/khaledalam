@@ -1,14 +1,18 @@
 ### Hi there 👋
 
 <p align="center">
-    <a href="https://github.com/khaledalam">
+    (<a href="https://github.com/khaledalam">
         <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
-    </a>(since May-2023)
+    </a> <code>since May-2023</code>)
 </p>
 
-| 👷 What I'm currently working on        | 🔨My recent Pull Requests           |
-| ------------- | ------------- |
-| {{range recentContributions 5}} - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})<br />{{- end}}      | {{range recentPullRequests 5}}- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})<br />{{- end}}      |
+| 👷 What I'm currently working on        |
+| ------------- |
+| {{range recentContributions 5}} - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})<br />{{- end}}      |
+
+| 🔨My recent Pull Requests           |
+| ------------- |
+| {{range recentPullRequests 5}}- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})<br />{{- end}}      |
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
