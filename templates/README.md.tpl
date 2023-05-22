@@ -1,44 +1,23 @@
 ### Hi there 👋
 
----
-
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
----
-
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
----
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
----
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
----
-
 <p align="center">
     <a href="https://github.com/khaledalam">
         <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
-    </a>
+    </a>(since May-2023)
 </p>
 
----
+| 👷 What I'm currently working on        | 🔨My recent Pull Requests           | 🔭Latest releases I've contributed to  |
+| ------------- |:-------------:| -----:|
+| {{range recentContributions 5}} - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}){{- end}}      | {{range recentPullRequests 5}}- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}}){{- end}} | {{range recentReleases 5}}- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}{{- end}} |
+
+
+- <a href="https://github.com/symfony/demo/pull/1142">Add Arabic language to the offical Symfony Demo app</a>
+- <a href="https://github.com/aws/aws-sdk-php/pull/2078">Fix in offical AWS SDK for PHP</a>
+- <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>
+    
 
 #### 📫 How to reach me
 
 - Email: [khaledalam.net@gmail.com](mailto:khaledalam.net@gmail.com)
+- Twitter: [@khaledalamxyz](https://twitter.com/khaledalamxyz/)
 - Linkedin: [https://linkedin.com/in/khaledalam/](https://linkedin.com/in/khaledalam/)
