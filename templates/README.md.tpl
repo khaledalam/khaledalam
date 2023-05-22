@@ -7,9 +7,9 @@
 </p>
 
 
-- <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a>
-- <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a>
-- <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>
+- <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a> <small>(2020)</small>
+- <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a> <small>(2020)</small>
+- <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a> <small>(2020)</small>
     
 
 <div align="center">
