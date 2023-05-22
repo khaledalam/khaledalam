@@ -3,7 +3,7 @@
 <p align="center">
     (<a href="https://github.com/khaledalam">
         <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
-    </a> <pre>since May-2023</pre>)
+    </a> <code>since May-2023</code>)
 </p>
 
 
@@ -12,23 +12,23 @@
 - <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>
     
 
-<p align="center">
+<center>
 | 👷 What I'm currently working on        |
 | ------------- |
 | {{range recentContributions 5}} - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})<br />{{- end}}      |
-</p>
+</center>
 
-<p align="center">
+<center>
 | 🔨My recent pull requests           |
 | ------------- |
 | {{range recentPullRequests 5}}- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})<br />{{- end}}      |
-</p>
+</center>
 
-<p align="center">
+<center>
 | 🔭Latest releases I've contributed to           |
 | ------------- |
 | {{range recentReleases 5}}- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}<br />{{- end}}      |
-</p>
+</center>
 
 #### 📫 How to reach me
 
