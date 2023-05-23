@@ -24,7 +24,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (3 days ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />- [Set bower-asset/nprogress version to 0.2.0](https://github.com/sourcetoad/yii2-nprogress/pull/1) on [sourcetoad/yii2-nprogress](https://github.com/sourcetoad/yii2-nprogress) (4 months ago)<br />      |
+| - [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (today)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (3 days ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />- [Set bower-asset/nprogress version to 0.2.0](https://github.com/sourcetoad/yii2-nprogress/pull/1) on [sourcetoad/yii2-nprogress](https://github.com/sourcetoad/yii2-nprogress) (4 months ago)<br />      |
 
 </div>
 
