@@ -16,7 +16,7 @@
 
 | 👷 What I'm currently working on        |
 | ------------- |
-|  - [khaledalam/redis-cli-key-values-hints](https://github.com/khaledalam/redis-cli-key-values-hints) -  (1 day ago)<br /> - [khaledalam/QuantumComputingAndPrimesAndOthers](https://github.com/khaledalam/QuantumComputingAndPrimesAndOthers) - Quantum Computing, Primes Patterns, Shor&#39;s Algorithm, RSA Cryptosystem, GNFS, Quantum Fourier transform, Mersenne Primes, PI, And Others notes. (2 days ago)<br /> - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) - PHP SDK/API for Google Bard (experiment version) (unofficial) (4 days ago)<br /> - [khaledalam/ml-image-searcher](https://github.com/khaledalam/ml-image-searcher) - NodeJS NPM package: search images using IG hashtags and ML tag. (4 days ago)<br /> - [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) - NodeJS NPM package: scrap IG profile media, comments and more. (4 days ago)<br />      |
+|  - [khaledalam/redis-cli-key-values-hints](https://github.com/khaledalam/redis-cli-key-values-hints) -  (2 days ago)<br /> - [khaledalam/QuantumComputingAndPrimesAndOthers](https://github.com/khaledalam/QuantumComputingAndPrimesAndOthers) - Quantum Computing, Primes Patterns, Shor&#39;s Algorithm, RSA Cryptosystem, GNFS, Quantum Fourier transform, Mersenne Primes, PI, And Others notes. (3 days ago)<br /> - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) - PHP SDK/API for Google Bard (experiment version) (unofficial) (5 days ago)<br /> - [khaledalam/ml-image-searcher](https://github.com/khaledalam/ml-image-searcher) - NodeJS NPM package: search images using IG hashtags and ML tag. (5 days ago)<br /> - [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) - NodeJS NPM package: scrap IG profile media, comments and more. (5 days ago)<br />      |
 
 </div>
 
@@ -24,7 +24,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (2 days ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (5 days ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />- [Set bower-asset/nprogress version to 0.2.0](https://github.com/sourcetoad/yii2-nprogress/pull/1) on [sourcetoad/yii2-nprogress](https://github.com/sourcetoad/yii2-nprogress) (4 months ago)<br />      |
+| - [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (3 days ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (6 days ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />- [Set bower-asset/nprogress version to 0.2.0](https://github.com/sourcetoad/yii2-nprogress/pull/1) on [sourcetoad/yii2-nprogress](https://github.com/sourcetoad/yii2-nprogress) (4 months ago)<br />      |
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
-| - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 5 days ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 2 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
+| - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 6 days ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 2 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
 
 </div>
 
