@@ -24,7 +24,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (1 week ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (1 week ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />- [Set bower-asset/nprogress version to 0.2.0](https://github.com/sourcetoad/yii2-nprogress/pull/1) on [sourcetoad/yii2-nprogress](https://github.com/sourcetoad/yii2-nprogress) (4 months ago)<br />      |
+| - [Add Truncate Functionality.](https://github.com/muesli/markscribe/pull/76) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)<br />- [Add truncate functionality.](https://github.com/khaledalam/markscribe/pull/1) on [khaledalam/markscribe](https://github.com/khaledalam/markscribe) (today)<br />- [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (1 week ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (1 week ago)<br />- [Update README.md](https://github.com/khaledalam/todo-reminder/pull/1) on [khaledalam/todo-reminder](https://github.com/khaledalam/todo-reminder) (3 months ago)<br />      |
 
 </div>
 
