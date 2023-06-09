@@ -6,11 +6,15 @@
     </a> <code>since May-2023</code>)
 </p>
 
+
+- [x] <a href="https://github.com/bisq-network/bisq/pull/2167">List Webchain(WEB) on bisq-network bitcoin exchange network</a> | [mintme](https://github.com/mintme-com/) currently <small>Java (2018)</small>
+- [x] <a href="https://github.com/mintme-com/explorer/pull/4">Update mintme explorer website footer</a> & [pool](https://github.com/mintme-com/pool/pull/12/files) <small>HTML (2019)</small>
+- [x] <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a> <small>Markdown (2020)</small>
+- [x] <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a> <small>Ubuntu (2020)</small>
+- [x] <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a> <small>XML (2020)</small>
 - [ ] <a href="https://github.com/muesli/markscribe/pull/76">Add truncate functionality for markscribe.</a> <small>Go (2023)</small>
 - [ ] <a href="https://github.com/redis/redis/pull/12215">Add the actual keys' values hint for offical Redis-CLI GET command</a> <small>C (2023)</small>
-- [x] <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a> <small>XML (2020)</small>
-- [x] <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a> <small>Markdown (2020)</small>
-- [x] <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a> <small>Ubuntu (2020)</small>    
+
 
 <div align="left">
 
