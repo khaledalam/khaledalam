@@ -11,8 +11,8 @@
 - [x] 2019, HTML, <a href="https://github.com/mintme-com/explorer/pull/4">Update mintme explorer website footer</a> & [pool](https://github.com/mintme-com/pool/pull/12/files).
 - [x] 2020, Markdown, <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a>.
 - [x] 2020, Ubuntu, <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>.
-- [x] 2020, XML<a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a>.
-- [ ] 2023, Go, <a href="https://github.com/muesli/markscribe/pull/76">Add truncate functionality for markscribe.</a>.
+- [x] 2020, XML, <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a>.
+- [ ] 2023, Go, <a href="https://github.com/muesli/markscribe/pull/76">Add truncate functionality for markscribe</a>.
 - [ ] 2023, C, <a href="https://github.com/redis/redis/pull/12215">Add the actual keys' values hint for offical Redis-CLI GET command</a>.
 
 
