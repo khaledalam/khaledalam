@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
     (<a href="https://github.com/khaledalam">
         <img src="https://komarev.com/ghpvc/?username=khaledalam&color=blue&style=flat)" />
     </a> <code>since May-2023</code>)
 </p>
 
+- [ ] <a href="https://github.com/muesli/markscribe/pull/76">Add truncate functionality for markscribe.</a> <small>Go (2023)</small>
+- [ ] <a href="https://github.com/redis/redis/pull/12215">Add the actual keys' values hint for offical Redis-CLI GET command</a> <small>C (2023)</small>
+- [x] <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a> <small>XML (2020)</small>
+- [x] <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a> <small>Markdown (2020)</small>
+- [x] <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a> <small>Ubuntu (2020)</small>    
 
-- <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a> <small>(2020)</small>
-- <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a> <small>(2020)</small>
-- <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a> <small>(2020)</small>
-    
-
-<div align="center">
+<div align="left">
 
 | 👷 What I'm currently working on        |
 | ------------- |
@@ -20,7 +20,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 | 🔨My recent pull requests           |
 | ------------- |
@@ -28,7 +28,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
