@@ -20,7 +20,7 @@
 
 | 👷 What I'm currently working on        |
 | ------------- |
-|  - [khaledalam/k8s-gcp-geo-distribution](https://github.com/khaledalam/k8s-gcp-geo-distribution) - Kubernetes and GCP infrastructure for custom traffic routing based on user geo-location. (2 weeks ago)<br /> - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) - Simple Go module that helps with translating json files using Google Translator. (2 weeks ago)<br /> - [khaledalam/football-teams-trade](https://github.com/khaledalam/football-teams-trade) - Symfony app that allow teams to buy/sell players. (2 weeks ago)<br /> - [khaledalam/wordpress-woocommerce-offer-plugin](https://github.com/khaledalam/wordpress-woocommerce-offer-plugin) - Custom wordpress plugin to add woocommerce offers/gifts for specific products&#39; categories. (3 weeks ago)<br /> - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) - PHP SDK/API for Google Bard (experiment version) (unofficial) (1 month ago)<br />      |
+|  - [khaledalam/k8s-gcp-geo-distribution](https://github.com/khaledalam/k8s-gcp-geo-distribution) - Kubernetes and GCP infrastructure for custom traffic routing based on user geo-location. (2 weeks ago)<br /> - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) - Simple Go module that helps with translating json files using Google Translator. (3 weeks ago)<br /> - [khaledalam/football-teams-trade](https://github.com/khaledalam/football-teams-trade) - Symfony app that allow teams to buy/sell players. (3 weeks ago)<br /> - [khaledalam/wordpress-woocommerce-offer-plugin](https://github.com/khaledalam/wordpress-woocommerce-offer-plugin) - Custom wordpress plugin to add woocommerce offers/gifts for specific products&#39; categories. (3 weeks ago)<br /> - [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) - PHP SDK/API for Google Bard (experiment version) (unofficial) (1 month ago)<br />      |
 
 </div>
 
@@ -36,7 +36,7 @@
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
-| - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 2 weeks ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 1 month ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 2 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
+| - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 3 weeks ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 1 month ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 2 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
 
 </div>
 
