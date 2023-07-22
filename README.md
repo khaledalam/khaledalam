@@ -28,7 +28,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [Add Truncate Functionality.](https://github.com/muesli/markscribe/pull/76) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)<br />- [Add truncate functionality.](https://github.com/khaledalam/markscribe/pull/1) on [khaledalam/markscribe](https://github.com/khaledalam/markscribe) (1 month ago)<br />- [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (1 month ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (2 months ago)<br />      |
+| - [Add Truncate Functionality.](https://github.com/muesli/markscribe/pull/76) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)<br />- [Add truncate functionality.](https://github.com/khaledalam/markscribe/pull/1) on [khaledalam/markscribe](https://github.com/khaledalam/markscribe) (1 month ago)<br />- [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (2 months ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (2 months ago)<br />      |
 
 </div>
 
