@@ -28,7 +28,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [Add Truncate Functionality.](https://github.com/muesli/markscribe/pull/76) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 months ago)<br />- [Add truncate functionality.](https://github.com/khaledalam/markscribe/pull/1) on [khaledalam/markscribe](https://github.com/khaledalam/markscribe) (4 months ago)<br />- [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (4 months ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (4 months ago)<br />      |
+| - [Add Truncate Functionality.](https://github.com/muesli/markscribe/pull/76) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 months ago)<br />- [Add truncate functionality.](https://github.com/khaledalam/markscribe/pull/1) on [khaledalam/markscribe](https://github.com/khaledalam/markscribe) (4 months ago)<br />- [Add the actual keys&#39; values hint instead of only hint word key for GET command.](https://github.com/redis/redis/pull/12215) on [redis/redis](https://github.com/redis/redis) (4 months ago)<br />- [Correct typo in install command in readme file.](https://github.com/khaledalam/bard-sdk-php/pull/1) on [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) (5 months ago)<br />      |
 
 </div>
 
@@ -36,7 +36,7 @@
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
-| - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 4 months ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 4 months ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 3 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
+| - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 4 months ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 5 months ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 3 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
 
 </div>
 
