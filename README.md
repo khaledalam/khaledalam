@@ -28,7 +28,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-|       |
+| - [doc: Add color screenshot.](https://github.com/khaledalam/whereisdep/pull/3) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />- [feat: Add coloring the package name in the content line.](https://github.com/khaledalam/whereisdep/pull/2) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />      |
 
 </div>
 
@@ -36,7 +36,7 @@
 
 | 🔭Latest releases I've contributed to           |
 | ------------- |
-| - [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 7 months ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 8 months ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 3 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
+| - [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) ([v1.0.0](https://github.com/khaledalam/whereisdep/releases/tag/v1.0.0), today) - C&#43;&#43; CLI application to search package.json dependencies in given directories.<br />- [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 7 months ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 8 months ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 3 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
 
 </div>
 
