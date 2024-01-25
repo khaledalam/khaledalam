@@ -28,7 +28,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [doc: Add color screenshot.](https://github.com/khaledalam/whereisdep/pull/3) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />      |
+|       |
 
 </div>
 
