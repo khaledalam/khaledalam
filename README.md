@@ -28,7 +28,7 @@
 
 | 🔨My recent pull requests           |
 | ------------- |
-| - [doc: Add color screenshot.](https://github.com/khaledalam/whereisdep/pull/3) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />- [feat: Add coloring the package name in the content line.](https://github.com/khaledalam/whereisdep/pull/2) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />      |
+| - [doc: Add color screenshot.](https://github.com/khaledalam/whereisdep/pull/3) on [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) (today)<br />      |
 
 </div>
 
