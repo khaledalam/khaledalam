@@ -6,40 +6,6 @@
     </a> <code>since May-2023</code>)
 </p>
 
-
-- [x] 2018, Java, <a href="https://github.com/bisq-network/bisq/pull/2167">List Webchain(WEB) on bisq-network bitcoin exchange network</a> | [mintme](https://github.com/mintme-com/) currently. 
-- [x] 2019, HTML, <a href="https://github.com/mintme-com/explorer/pull/4">Update mintme explorer website footer</a> & [pool](https://github.com/mintme-com/pool/pull/12/files).
-- [x] 2020, Markdown, <a href="https://github.com/aws/aws-sdk-php/pull/2078">My PR in offical AWS SDK for PHP</a>.
-- [x] 2020, Ubuntu, <a href="https://bugs.launchpad.net/ubuntu/+source/pyecm/+bug/1899312">My confirmed Ubuntu (pyecm package) bug report (related to factoring RSA-260)</a>.
-- [x] 2020, XML, <a href="https://github.com/symfony/demo/pull/1142">Adding Arabic language to the offical Symfony Demo app</a>.
-- [ ] 2023, Go, <a href="https://github.com/muesli/markscribe/pull/76">Add truncate functionality for markscribe</a>.
-- [ ] 2023, C, <a href="https://github.com/redis/redis/pull/12215">Add the actual keys' values hint for offical Redis-CLI GET command</a>.
-
-
-<div align="left">
-
-| 👷 What I'm currently working on        |
-| ------------- |
-|  - [khaledalam/cloudyinputs-wordpress](https://github.com/khaledalam/cloudyinputs-wordpress) - Auto words and sentences prediction using AI and Drafting users&#39; inputs instantly on cloud (today)<br /> - [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) - C&#43;&#43; CLI application to search package.json dependencies in given directories. (1 month ago)<br /> - [khaledalam/logfile-viewer](https://github.com/khaledalam/logfile-viewer) - Read System Log Files with Pagination using PHP (2 months ago)<br /> - [khaledalam/LinkNexa](https://github.com/khaledalam/LinkNexa) - One-click Paste Frequent Form inputs using Browser Extension. Remember the contents of the forms inputs and restore them at any time with one click using Browser Extension. (6 months ago)<br /> - [khaledalam/rn-random-quotes](https://github.com/khaledalam/rn-random-quotes) - Random Quotes react native mobile application. (7 months ago)<br />      |
-
-</div>
-
-<div align="left">
-
-| 🔨My recent pull requests           |
-| ------------- |
-|       |
-
-</div>
-
-<div align="left">
-
-| 🔭Latest releases I've contributed to           |
-| ------------- |
-| - [khaledalam/whereisdep](https://github.com/khaledalam/whereisdep) ([v1.0.0](https://github.com/khaledalam/whereisdep/releases/tag/v1.0.0), 1 month ago) - C&#43;&#43; CLI application to search package.json dependencies in given directories.<br />- [khaledalam/json-translator](https://github.com/khaledalam/json-translator) ([v1.0.2](https://github.com/khaledalam/json-translator/releases/tag/v1.0.2), 9 months ago) - Simple Go module that helps with translating json files using Google Translator.<br />- [khaledalam/bard-sdk-php](https://github.com/khaledalam/bard-sdk-php) ([v1.0.0](https://github.com/khaledalam/bard-sdk-php/releases/tag/v1.0.0), 10 months ago) - PHP SDK/API for Google Bard (experiment version) (unofficial)<br />- [khaledalam/instagrammer](https://github.com/khaledalam/instagrammer) ([1.0.11](https://github.com/khaledalam/instagrammer/releases/tag/1.0.11), 3 years ago) - NodeJS NPM package: scrap IG profile media, comments and more.<br />      |
-
-</div>
-
 #### 📫 How to reach me
 
 - Email: [khaledalam.net@gmail.com](mailto:khaledalam.net@gmail.com)
