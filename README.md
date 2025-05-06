@@ -41,7 +41,7 @@
 ---
 
 ### 🚀 Recent Projects and Contributions
-- **Microsoft GraphRAG** – Contributed a Python-based [PR](https://github.com/microsoft/graphrag/pull/1917) adding Token & LLM Cost Estimation to the Indexing Pipeline of Microsoft's GraphRAG.
+- **Microsoft's GraphRAG** – Contributed a Python-based [PR](https://github.com/microsoft/graphrag/pull/1917) adding Token & LLM Cost Estimation to the Indexing Pipeline.
 - **Makyee** - Built and scaled the UAE's leading PropTech app by reengineering a legacy Yii 1.1 backend.
 - **Sourcetoad** – Delivered backend features for the CORE cruise director platform used across global cruise lines.
 - **Khardl** – Built a multi-tenant all-in-one restaurant management ecosystem.
