@@ -40,9 +40,9 @@
 
 ---
 
-### 🚀 Recent Projects
-
-- **Makyee** – Built and scaled the UAE's leading PropTech app by reengineering a legacy Yii 1.1 backend.
+### 🚀 Recent Projects and Contributions
+- **Microsoft GraphRAG** – Contributed a Python-based [PR](https://github.com/microsoft/graphrag/pull/1917) adding Token & LLM Cost Estimation to the Indexing Pipeline of Microsoft's GraphRAG.
+- **Makyee** - Built and scaled the UAE's leading PropTech app by reengineering a legacy Yii 1.1 backend.
 - **Sourcetoad** – Delivered backend features for the CORE cruise director platform used across global cruise lines.
 - **Khardl** – Built a multi-tenant all-in-one restaurant management ecosystem.
 - **Redis** – Contributed a C-based [pull request](https://github.com/redis/redis/pull/12215) adding live, chat-like Redis CLI interactions while typing commands.
@@ -64,6 +64,9 @@
 ---
 
 ### 📚 Archived Posts
+
+- **[2025]** _When SSR Meets Vercel Limits: Solving 15s Timeout on Serverless APIs - Sri Lanka_  
+  [Read post ⟶](https://blog.khaledalam.net/set-maxduration-of-vercel-serverless-functions-execution-duration-limit/)
 
 - **[2023]** _When SSR Meets Vercel Limits: Solving 15s Timeout on Serverless APIs - Sri Lanka_  
   [Read post ⟶](https://blog.khaledalam.net/set-maxduration-of-vercel-serverless-functions-execution-duration-limit/)
