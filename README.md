@@ -93,7 +93,8 @@
 - 💼 [LinkedIn](https://linkedin.com/in/khaledalam)  
 - 🐦 [X (Twitter)](https://x.com/khaledalamxyz)  
 - 📸 [Instagram](https://instagram.com/khaledalamxyz)  
-- 📝 [Blog](https://blog.khaledalam.net)  
+- 📝 [Blog](https://blog.khaledalam.net)
+- ✍️ [Medium](https://khaledalam.medium.com)
 - 🎮 Discord: `KhaledAlam`
 
 ---
