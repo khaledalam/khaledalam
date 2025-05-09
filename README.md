@@ -66,7 +66,7 @@
 ### 📚 Archived Posts
 
 - **[2025]** _How I Added Token & LLM Cost Estimation to the Indexing Pipeline of Microsoft GraphRAG_  
-  [Read post ⟶]https://blog.khaledalam.net/how-i-added-token-llm-cost-estimation-to-the-indexing-pipeline-of-microsoft-graphrag/)
+  [Read post ⟶](https://blog.khaledalam.net/how-i-added-token-llm-cost-estimation-to-the-indexing-pipeline-of-microsoft-graphrag/)
 
 - **[2023]** _When SSR Meets Vercel Limits: Solving 15s Timeout on Serverless APIs - Sri Lanka_  
   [Read post ⟶](https://blog.khaledalam.net/set-maxduration-of-vercel-serverless-functions-execution-duration-limit/)
