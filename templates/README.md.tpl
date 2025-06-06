@@ -51,12 +51,12 @@
 
 ### 🧪 Sample of My Personal Projects
 
-- **[2025] CanvaMagnet** – _~6k AED / Monthly sales_  
+- **[2025] CanvaMagnet**  
   [canvamagnet.com](https://canvamagnet.com) | [Instagram: @CanvaMagnet](https://www.instagram.com/canvamagnet/)
   
 - **[2024] ArtifyMaster** – _1k+ registered users in the first week of release_
 
-- **[2021] OrdersAnalytics** – _10k+ AED in subscriptions_  
+- **[2021] OrdersAnalytics**  
   [SaaS App](https://orders-analytics.enhancemystore.com) (recommended by BigCommerce)
 
 - **[2018] Codeforces Green Dot** – _200+ Registered | [1.9K Followers](https://facebook.com/cfgreendot)_
